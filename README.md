@@ -1,6 +1,6 @@
-# Welcome to [Your Username]'s GitHub Profile!
+# Welcome to ddfxai's GitHub Profile!
 
-👋 Hello, I'm [Your Name] – a passionate individual with a keen interest in cybersecurity and AWS cloud architecture. I'm excited about building secure and scalable solutions using cutting-edge technologies.
+👋 Hello, ddfxai – a passionate individual with a keen interest in cybersecurity and AWS cloud architecture. I'm excited about building secure and scalable solutions using cutting-edge technologies.
 
 ## 🔒 Cybersecurity Enthusiast
 My journey into the world of technology has been shaped by my fascination with cybersecurity. I enjoy exploring and understanding the ever-evolving landscape of digital threats and devising robust strategies to safeguard systems and data.
